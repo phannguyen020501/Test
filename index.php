@@ -1,1 +1,4 @@
-hello sua
+<?php
+
+echo "home'
+?>
